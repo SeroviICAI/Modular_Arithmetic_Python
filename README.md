@@ -1,6 +1,6 @@
 # Modular_Arithmetic_Python
 ## Description
-A library for number theory and modular arithmetic algorithms in Python e.g. Pollard Rho, Miller–Rabin primality test, Cipolla, etc.
+A library for number theory and modular arithmetic algorithms in Python e.g. Pollard Rho, Miller–Rabin primality test, Cipolla, etc. A couple of implementations where inspired by Wikipedia's pseudocode.
 
 ## Algorithms:
 ### Miller test (deterministic, not pseudoprimality) - es_primo:
